@@ -59,4 +59,5 @@ def main():
         txt.close()
         time.sleep(waitTime)
     print("Check 'token.txt'!")
-main()
+if __name__ == "__main__":
+    main()
