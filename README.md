@@ -1,3 +1,5 @@
+# This project is now archived, as the promotion with Opera GX has ended
+
 # Opera GX Nitro Automator
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
